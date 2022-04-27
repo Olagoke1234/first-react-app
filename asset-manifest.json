@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/http//Olagoke1234.github.io/first-react-app/static/css/main.502d0a39.css",
+    "main.css": "/http//Olagoke1234.github.io/first-react-app/static/css/main.5f4a68fa.css",
     "main.js": "/http//Olagoke1234.github.io/first-react-app/static/js/main.de3d57d0.js",
     "static/js/787.3bf0dcc2.chunk.js": "/http//Olagoke1234.github.io/first-react-app/static/js/787.3bf0dcc2.chunk.js",
     "static/media/profile-image.jpg": "/http//Olagoke1234.github.io/first-react-app/static/media/profile-image.2f620e06e7b9af7d2917.jpg",
     "index.html": "/http//Olagoke1234.github.io/first-react-app/index.html",
-    "main.502d0a39.css.map": "/http//Olagoke1234.github.io/first-react-app/static/css/main.502d0a39.css.map",
+    "main.5f4a68fa.css.map": "/http//Olagoke1234.github.io/first-react-app/static/css/main.5f4a68fa.css.map",
     "main.de3d57d0.js.map": "/http//Olagoke1234.github.io/first-react-app/static/js/main.de3d57d0.js.map",
     "787.3bf0dcc2.chunk.js.map": "/http//Olagoke1234.github.io/first-react-app/static/js/787.3bf0dcc2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.502d0a39.css",
+    "static/css/main.5f4a68fa.css",
     "static/js/main.de3d57d0.js"
   ]
 }
